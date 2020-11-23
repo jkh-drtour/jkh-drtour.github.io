@@ -1,1 +1,1 @@
-[ ]
+[ { "title": "블로그", "url": "/posts/getting-started/", "categories": "Blogging, Tutorial", "tags": "getting started", "date": "2020-11-23 09:55:00 +0900", "snippet": "Github 계정 만들기Github 회원가입 사이트 접속하여 회원가입하기Jekyll 설치하기Gemfile$gem Note: 설치가 되어있는지 확인한다.Jekyll 구동$ sudo jekyll new jkh-drtour.github.io$ jekyll serve --watch$ sudo bundle exec jekyll serve" } ]
